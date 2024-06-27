@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm David Padilla</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">A passionate full stack developer from Spain</h3>
 
 - 🔭 I’m currently working on [EnTuBarrio](https://github.com/Davpad/proyecto-final-entubarrio)
 
