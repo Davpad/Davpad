@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm David Padilla</h1>
 <h3 align="center">A passionate full stack developer from Spain</h3>
 
-- 🔭 I’m currently working on [EnTuBarrio](https://github.com/Davpad/proyecto-final-entubarrio) y [Pregunta-te](https://github.com/Davpad/pregunta-te)
+- 🔭 I’m currently working on [EnTuBarrio](https://github.com/Davpad/proyecto-final-entubarrio) and [Pregunta-te](https://github.com/Davpad/pregunta-te)
 
 - 🌱 I’m currently learning **JavaScript, Python**
 
